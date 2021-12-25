@@ -1,0 +1,91 @@
+1640210561020	geckodriver	INFO	Listening on 127.0.0.1:43697
+1640210561038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36789" "-no-remote" "-profile" "/tmp/rust_mozprofile1jCKli"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640210562089	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1jCKli/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36789/devtools/browser/e1b49bff-8bdc-4f8e-a109-0132dfbbe549
+1640210565902	Marionette	INFO	Listening on port 38955
+1640210566031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1640210719186	geckodriver	INFO	Listening on 127.0.0.1:43151
+1640210719191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53717" "-no-remote" "-profile" "/tmp/rust_mozprofileqoTP70"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640210721366	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqoTP70/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53717/devtools/browser/e9b70a53-a5aa-404b-97a5-007952ddd0c4
+1640210725074	Marionette	INFO	Listening on port 39537
+1640210725136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+1640210739135	Marionette	INFO	Stopped listening on port 39537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640210770555	geckodriver	INFO	Listening on 127.0.0.1:59785
+1640210770561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49855" "-no-remote" "-profile" "/tmp/rust_mozprofileD7l24w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640210772767	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD7l24w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49855/devtools/browser/d4116fb4-d930-4e41-9262-71eb6c34842f
+1640210776694	Marionette	INFO	Listening on port 38205
+1640210776821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1640210892888	Marionette	INFO	Stopped listening on port 38205
+[Parent 12404, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox/src/firefox-94.0.2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640438326436	geckodriver	INFO	Listening on 127.0.0.1:50699
+1640438326954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44703" "-no-remote" "-profile" "/tmp/rust_mozprofilefDdwSj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640438329838	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefDdwSj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44703/devtools/browser/a1697b95-92f5-49d5-83fd-9c8199bc3ef4
+1640438334493	Marionette	INFO	Listening on port 42619
+1640438334617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1640438767257	geckodriver	INFO	Listening on 127.0.0.1:35961
+1640438767762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40011" "-no-remote" "-profile" "/tmp/rust_mozprofileB5A0hQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640438768664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB5A0hQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40011/devtools/browser/77314185-e6a2-45d3-b794-c4ebca2a97b5
+1640438771126	Marionette	INFO	Listening on port 36773
+1640438771222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.fa9b5ba408af1a3623ab.js, line 58: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1640438957613	Marionette	INFO	Stopped listening on port 36773
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4763, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox/src/firefox-94.0.2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
